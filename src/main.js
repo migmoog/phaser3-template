@@ -1,4 +1,4 @@
-import Main from "./scenes/MainScene.js";
+import MainScene from "./scenes/MainScene.js";
 
 class P extends Phaser.Scene {
     preload() {
@@ -11,5 +11,5 @@ class P extends Phaser.Scene {
 }
 
 const game = new Phaser.Game({
-    scene: [P, Main]
+    scene: [P, MainScene]
 });
