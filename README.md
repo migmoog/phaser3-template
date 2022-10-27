@@ -1,3 +1,7 @@
+# I AM NOT UPDATING THIS ANYMORE
+Mostly I've just moved to different tooling and stopped using phaser, but the community has taken a dive into crypt0curr3ncy which just isn't my cup of tea. If you still use phaser you're free to use this if you so desire, but I'm not updating it or adding any new junk to it. (Should be a simple update, just change the current version from the cdn tag in `index.html` to the current version of phaser.
+
+```
 # phaser3-template
 A template I use for games made with Phaser 3
 
@@ -11,3 +15,4 @@ A template I use for games made with Phaser 3
 3) assets go in the `assets` directory
 4) To test your game with live server, you can right click your index.html and select "Open with Live Server", any changes made to your code will be changed live in the game
 5) have a blast!
+```
